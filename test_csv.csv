@@ -1,0 +1,21 @@
+Employee_ID,Full_Name,Department,Designation,Location,Salary
+EMP001,Vihaan Mehta,Sales,Lead,Delhi,86713
+EMP002,Navya Bose,Sales,Assistant,Pune,119566
+EMP003,Saanvi Singh,HR,Lead,Delhi,86618
+EMP004,Pari Singh,Finance,Executive,Bangalore,30385
+EMP005,Kiara Reddy,Finance,Executive,Mumbai,37176
+EMP006,Ishaan Sharma,Sales,Manager,Pune,54499
+EMP007,Aryan Reddy,Finance,Assistant,Bangalore,109243
+EMP008,Myra Chopra,Operations,Executive,Bangalore,76736
+EMP009,Kabir Desai,Sales,Executive,Bangalore,46651
+EMP010,Kabir Mishra,Marketing,Assistant,Mumbai,29167
+EMP011,Krishna Mishra,Sales,Executive,Pune,69248
+EMP012,Kiara Verma,Marketing,Executive,Bangalore,46412
+EMP013,Rohan Khan,Marketing,Lead,Mumbai,33724
+EMP014,Ananya Gupta,IT,Lead,Chennai,103050
+EMP015,Meera Singh,Marketing,Manager,Chennai,85548
+EMP016,Reyansh Pandey,Operations,Lead,Bangalore,36007
+EMP017,Aarav Sharma,Finance,Manager,Pune,74809
+EMP018,Myra Desai,Finance,Analyst,Delhi,101025
+EMP019,Ananya Patel,Operations,Lead,Chennai,92747
+EMP020,Aadhya Kapoor,HR,Analyst,Hyderabad,106020
